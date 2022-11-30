@@ -6,6 +6,7 @@
 <ul>
 <li>Esse projeto visa fixar os conhecimentos sobre css <b>animation</b>, <b>responsividade</b> e conceitos de <b>flex-box</b></li>
 
-<p>A ideia central do projeto é construir um formulário simples e intuitivo para colocar em prática os conceitos estudados acima.</p>
+<p>A ideia central do projeto é construir um formulário simples e intuitivo para colocar em prática os conceitos estudados acima. Também será adicionado uma aba de recuperação de senha de login.</p>
+
 
 <h2>CSS</h2>
