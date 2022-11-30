@@ -1,4 +1,13 @@
-.container {
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Responsive email form</title>
+</head>
+<style>
+    .container {
     display: flex;
     flex-direction: column;    
     padding: 3px 25px 50px;  
@@ -61,3 +70,19 @@
 }
 
 
+
+</style>
+<body>
+    <main>
+        <div class="container">
+            <h1>Sign in</h1>
+            <div class="formulario">
+                <input type="text" id="email" placeholder="Seu email"></input><br>
+                <input type="password" id="password" placeholder="Senha"></input>
+                <p>esqueceu a sua senha?</p>
+                <button id="enviar">Login</button>
+            </div>
+        </div>
+    </main>
+</body>
+</html>
